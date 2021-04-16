@@ -1,0 +1,13 @@
+
+.test {
+    color: $blue;
+
+    span {
+        color: green;
+    }
+
+    .wrapper {
+        background-image: url("./../../assets/images/bg-test.jpg");
+    }
+    
+}
